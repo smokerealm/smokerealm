@@ -1,16 +1,13 @@
-## Hi there 👋
+### yo, i'm smokerealm 👋
 
-<!--
-**smokerealm/smokerealm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps enthusiast automating infrastructure and CI/CD pipelines. Based in Indonesia.
 
-Here are some ideas to get you started:
+- reading docs more than books lately
+- currently deep in developer tooling
+- happier in a terminal than in an IDE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=smokerealm&hide_border=true&theme=minimal" alt="Contribution graph" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smokerealm&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/Linux-fb923c?style=for-the-badge&logoColor=white" alt="Linux" /> <img src="https://img.shields.io/badge/Docker-fb923c?style=for-the-badge&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-fb923c?style=for-the-badge&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Terraform-fb923c?style=for-the-badge&logoColor=white" alt="Terraform" /> <img src="https://img.shields.io/badge/GitHub%20Actions-fb923c?style=for-the-badge&logoColor=white" alt="GitHub Actions" />
